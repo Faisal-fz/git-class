@@ -1,2 +1,4 @@
 this is first file
 another file added
+github setup with ssh key
+github/git makes programmer life pretty easier
